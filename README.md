@@ -7,7 +7,7 @@
 <p>
   <img alt="Status" src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow"
   <img alt ="UNIP" src="https://img.shields.io/badge/Extensão-UNIP%20-green">
-  <img alt="Licença" src="https://img.shields.io/badge/License-MIT-blue">
+  <img alt="Licença" src="https://img.shields.io/badge/Licença-MIT-blue">
 </p>
 
 </div>
