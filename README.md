@@ -128,7 +128,7 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 **Materiais recomendados:**
 
 - [Harvard CS50](https://cs50.harvard.edu/x/) — Introdução à Ciência da Computação.
-- [OSSU – Computer Science](https://cs.ossu.dev/) — Currículo de Ciência da Computação.
+- [OSSU – Computer Science](https://cs.ossu.dev/) — Currículo de Ciência da Computação (versão em inglês - está disponível o curso de Ciência da Computação em PTBR no repositório do github).
 
 ## 2. Lógica de programação
 
@@ -146,8 +146,8 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 
 **Materiais recomendados:**
 
-- [Curso em Vídeo](https://www.cursoemvideo.com/) — Cursos introdutórios de programação.
-- [Harvard CS50](https://cs50.harvard.edu/x/) — Fundamentos de Ciência da Computação e programação.
+- [Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/) — Curso Introdutório de Lógica de Programação e Algoritmos.
+- [Harvard CS50 - PTBR](https://cs50xemportugues.github.io/2024/) — Fundamentos de Ciência da Computação e programação.
 
 ## 3. Fundamentos de programação
 
@@ -172,7 +172,7 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 **Materiais recomendados:**
 
 - [OSSU – Computer Science](https://cs.ossu.dev/).
-- [Curso em Vídeo](https://www.cursoemvideo.com/).
+- [Curso em Vídeo - Linguagem Java](https://www.cursoemvideo.com/curso/java-basico/).
 
 ## 4. Desenvolvimento Web
 
