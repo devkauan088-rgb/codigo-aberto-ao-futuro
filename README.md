@@ -12,22 +12,31 @@
 
 </div>
 
-## Sobre o projeto
+# Conteúdo
 
-O *Código Aberto ao Futuro* é uma plataforma web comunitária ciada como poarte das atividades de extensão universitária no curso de Análise e Desenvolvimento de Sistemas (ADS) da UNIP.
+- [Sumário] (#sumario)
+- [Funcionalidades] (#funcionalidades)
+- [Comunidade] (#comunidade)
+- [Currículo] (#curriculo)
+- [Custos] (#custos)
+- [Time] (#time)
+
+# Sumário
+
+O *Código Aberto ao Futuro* é uma plataforma web comunitária criada como parte das atividades de extensão universitária no curso de Análise e Desenvolvimento de Sistemas (ADS) da UNIP.
 
 Nosso objetivo é democratizar o acesso à educação em tecnologia. Sabemos que a internet está cheia de cursos gratuitos incríveis (como HarvardCS50, OSSU, Curso em Vídeo, dentre outros) mas muitos jovens da comunidade não sabem por onde começar ou se sentem perdidos diantes de tanta informação.
 
 Este projeto resolve esse problema atuando como uma bússola: nós organizamos os conteúdos em trilhas de estudo lógicas e progressivas, para que qualquer pessoa possa aprender do zero ao avançado, no seu próprio ritmo, sem gastar dinheiro.
 
+# Funcionalidades 
 
-## Funcionalidades 
 - Trilhas de Estudo Guiadas: Organização de cursos gratuitos pode nível (Iniciante, Front-end, Back-end, etc).
 - Curadoria de Conteúdo: Links diretos e verificados para os melhores cursos abertos (Harvard, MIT, YouTube, etc).
 - Design Responsivo: Interface adaptada para leitura confortável em celulares e computadores.
 - Tema Claro/Escuro: Alternância de tema para melhor acessibilidade visual.
 
-## Tecnologias utilizadas
+# Tecnologias utilizadas
 
 Este projeto foi construído utilizando tecnologias web fundamentais, sem o uso de frameworks pesados, garantindo leveza e rapidez:
  
@@ -36,7 +45,7 @@ Este projeto foi construído utilizando tecnologias web fundamentais, sem o uso 
 - JavaScript: Lógica de alternância de tema e interatividade.
 - GitHub Pages: Hospedagem do site de forma gratuita.
 
-## Como executar o projeto 
+# Como executar o projeto 
 
 Para rodar este projeto no seu computador, siga os passos abaixos:
 1. Clone este repositório:
