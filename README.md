@@ -5,7 +5,7 @@
 <p><strong>Conectando a nossa comunidade ao conhecimento.</strong></p>
 
 <p>
-  <img alt="Status" src="https://img.shields.o/badge/Status-Em%20Desenvolvimento-yellow"
+  <img alt="Status" src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow"
   <img alt ="UNIP" src="https://img.shields.io/bade/Extensão-UNIP-green">
   <img alt="Licença" src="https://img.shileds.io/bade/Licença-MIT-blue">
 </p>
