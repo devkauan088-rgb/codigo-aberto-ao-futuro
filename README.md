@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-<img src="https://img.shields.io/badge"</div>
+<img src="https://img.shields.io/badge/Somente_a_educação_liberta-green"</div>
 
 <h1>Código Aberto ao Futuro</h1>
 <p><strong>Conectando a nossa comunidade ao conhecimento.</strong></p>
