@@ -129,7 +129,8 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 
 - [Harvard CS50](https://cs50.harvard.edu/x/) — Introdução à Ciência da Computação.
 - [OSSU – Computer Science](https://cs.ossu.dev/) — Currículo de Ciência da Computação.
-- [Como Computadores Funcionam - Fábio Akita] (https://youtu.be/8G80nuEyDN4?si=d--8lAOCvGye6S7d) — Como Computadores Funcionam.
+- [Como Computadores Funcionam - Fábio Akita](https://youtu.be/8G80nuEyDN4?si=d--8lAOCvGye6S7d) — Como Computadores Funcionam.
+
 ## 2. Lógica de programação
 
 **Objetivo:** desenvolver o raciocínio lógico necessário para compreender problemas e construir soluções utilizando algoritmos.
@@ -181,6 +182,7 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 ### Front-end
 
 **Conteúdos:**
+- Internet
 - HTML5.
 - CSS3.
 - JavaScript.
@@ -201,6 +203,7 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 
 **Materiais recomendados:**
 
+- [Como a internet funciona - Fábio Akita](https://youtu.be/0TndL-Nh6Ok?si=j1LpBGOzGGF0dmjP)
 - [The Odin Project](https://www.theodinproject.com/).
 - [MDN Web Docs](https://developer.mozilla.org/).
 - [freeCodeCamp](https://www.freecodecamp.org/).
