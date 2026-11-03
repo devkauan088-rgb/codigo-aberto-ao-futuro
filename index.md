@@ -1,3 +1,9 @@
+---
+layout: default
+title: Código Aberto ao Futuro
+---
+
+
 # Código Aberto ao Futuro
 
 ### Seu caminho para aprender tecnologia começa aqui.
