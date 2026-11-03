@@ -205,7 +205,7 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 **Materiais recomendados:**
 
 - [Como a internet funciona - Fábio Akita](https://youtu.be/0TndL-Nh6Ok?si=j1LpBGOzGGF0dmjP).
-- [The Odin Project](https://www.theodinproject.com/).
+- [The Odin Project](https://www.theodinproject.com/). 
 - [MDN Web Docs](https://developer.mozilla.org/).
 - [freeCodeCamp](https://www.freecodecamp.org/).
 
@@ -245,9 +245,10 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 
 **Materiais recomendados:**
 
+- [Boson Treinamentos](https://youtu.be/C3xYBT3o_5k?si=DW2lb-hHSVcLvDPd).
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/).
 - [Pro Git](https://git-scm.com/book/pt-br/v2).
-- [Aprenda Git Branching] (https://learngitbranching.js.org/).
+- [Git Branching](https://learngitbranching.js.org/).
 
 ## 7. Estudos avançados e especialização
 
