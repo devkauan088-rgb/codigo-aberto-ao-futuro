@@ -32,6 +32,7 @@ Aqui você encontrará caminhos de aprendizagem e recomendações de recursos ex
 
 - [Introdução à Computação](trilhas/introducao.md)
 - [Lógica de Programação](trilhas/logica-programacao.md)
+- [Fundamentos de Programação](trilhas/logica-programacao.md)
 - [Desenvolvimento Web](trilhas/desenvolvimento-web.md)
 - [Banco de Dados](trilhas/banco-de-dados.md)
 - [Ciência da Computação](trilhas/ciencia-computacao.md)
