@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌱 Código Aberto ao Futuro
+# Código Aberto ao Futuro
 
 ### Conectando a nossa comunidade ao conhecimento.
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 📚 Sumário
+# Sumário
 
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Como utilizar este guia](#-como-utilizar-este-guia)
@@ -37,7 +37,7 @@
 
 ---
 
-# 🌎 Sobre o projeto
+# Sobre o projeto
 
 O **Código Aberto ao Futuro** é uma iniciativa educacional comunitária desenvolvida originalmente como parte das atividades de extensão universitária do curso de Análise e Desenvolvimento de Sistemas (ADS) da Universidade Paulista (UNIP).
 
@@ -49,11 +49,11 @@ Queremos democratizar o acesso ao conhecimento tecnológico por meio da organiza
 
 Inspirado em iniciativas como a [Open Source Society University (OSSU)](https://cs.ossu.dev/), este projeto busca organizar diferentes materiais em trilhas de aprendizagem estruturadas, permitindo que estudantes desenvolvam seus conhecimentos progressivamente.
 
-### 🎯 Nossa missão
+### Nossa missão
 
 Conectar pessoas ao conhecimento, tornando o aprendizado de tecnologia mais acessível, organizado e independente.
 
-### 💡 Nossa proposta
+### Nossa proposta
 
 O Código Aberto ao Futuro **não pretende substituir escolas, universidades ou plataformas de ensino**.
 
@@ -65,7 +65,7 @@ Os conteúdos permanecem em suas respectivas plataformas de origem. Aqui, você 
 
 ---
 
-# 🧭 Como utilizar este guia
+# Como utilizar este guia
 
 Este repositório foi pensado para pessoas que desejam aprender tecnologia de maneira independente, mesmo sem experiência anterior.
 
@@ -84,7 +84,7 @@ Recomendamos seguir estas etapas:
 
 ---
 
-# 📖 Metodologia de aprendizagem
+# Metodologia de aprendizagem
 
 Nossa organização segue uma estrutura progressiva, dividida em diferentes etapas.
 
@@ -107,7 +107,7 @@ Cada trilha poderá apresentar:
 
 ---
 
-# 🎓 Currículo de estudos
+# Currículo de estudos
 
 O currículo será organizado em áreas de conhecimento, respeitando a progressão natural do aprendizado.
 
@@ -203,7 +203,7 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 
 **Materiais recomendados:**
 
-- [Como a internet funciona - Fábio Akita](https://youtu.be/0TndL-Nh6Ok?si=j1LpBGOzGGF0dmjP)
+- [Como a internet funciona - Fábio Akita](https://youtu.be/0TndL-Nh6Ok?si=j1LpBGOzGGF0dmjP).
 - [The Odin Project](https://www.theodinproject.com/).
 - [MDN Web Docs](https://developer.mozilla.org/).
 - [freeCodeCamp](https://www.freecodecamp.org/).
@@ -272,7 +272,7 @@ Algumas possibilidades:
 
 ---
 
-# 🛠️ Projetos práticos
+# Projetos práticos
 
 Aprender conceitos é importante, mas colocá-los em prática é fundamental.
 
@@ -292,7 +292,7 @@ O objetivo é construir gradualmente um portfólio que demonstre sua evolução 
 
 ---
 
-# 🔎 Recursos complementares
+# Recursos complementares
 
 Além das trilhas principais, recomendamos algumas fontes para aprofundar seus conhecimentos.
 
@@ -308,7 +308,7 @@ Além das trilhas principais, recomendamos algumas fontes para aprofundar seus c
 
 ---
 
-# 📈 Acompanhe seu progresso
+# Acompanhe seu progresso
 
 Você pode utilizar as caixas de seleção do Markdown para acompanhar sua evolução.
 
@@ -328,9 +328,9 @@ O aprendizado não precisa acontecer em uma velocidade específica. O importante
 
 ---
 
-# 🤝 Comunidade e contribuições
+# Comunidade e contribuições
 
-O Código Aberto ao Futuro é um projeto que pretende crescer com a participação da comunidade.
+O *Código Aberto ao Futuro* é um projeto que pretende crescer com a participação da comunidade.
 
 Acreditamos que o conhecimento deve ser compartilhado e que diferentes pessoas podem contribuir para tornar os materiais educacionais mais acessíveis.
 
@@ -355,7 +355,7 @@ Toda contribuição construtiva será bem-vinda!
 
 ---
 
-# 💻 Tecnologias utilizadas
+# Tecnologias utilizadas
 
 O projeto utiliza tecnologias fundamentais do desenvolvimento Web:
 
@@ -367,7 +367,7 @@ O projeto utiliza tecnologias fundamentais do desenvolvimento Web:
 
 ---
 
-# 📄 Licença
+# Licença
 
 Este projeto está disponibilizado sob a licença [MIT](LICENSE).
 
@@ -377,7 +377,7 @@ Você pode utilizar, modificar e distribuir o código conforme as condições es
 
 ---
 
-# ❤️ Agradecimentos
+# Agradecimentos
 
 Este projeto nasceu de uma atividade de extensão universitária da Universidade Paulista (UNIP), mas sua proposta vai além de uma atividade acadêmica.
 
@@ -391,7 +391,7 @@ Agradecemos a todos os educadores, instituições, desenvolvedores e comunidades
 
 <div align="center">
 
-### 🌱 Código Aberto ao Futuro
+### Código Aberto ao Futuro
 
 **O futuro começa com o conhecimento.**
 
