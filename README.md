@@ -9,7 +9,7 @@
 [![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)]()
 [![Extensão](https://img.shields.io/badge/Projeto-Extensão%20UNIP-green)]()
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue)]()
-[Repositório](https://img.shields.io/badge/github-repo-blue?logo=github)
+![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
 </div>
 
