@@ -128,8 +128,8 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 **Materiais recomendados:**
 
 - [Harvard CS50](https://cs50.harvard.edu/x/) — Introdução à Ciência da Computação.
-- [OSSU – Computer Science](https://cs.ossu.dev/) — Currículo de Ciência da Computação (versão em inglês - está disponível o curso de Ciência da Computação em PTBR no repositório do github).
-
+- [OSSU – Computer Science](https://cs.ossu.dev/) — Currículo de Ciência da Computação.
+- [Como Computadores Funcionam - Fábio Akita] (https://youtu.be/8G80nuEyDN4?si=d--8lAOCvGye6S7d) — Como Computadores Funcionam.
 ## 2. Lógica de programação
 
 **Objetivo:** desenvolver o raciocínio lógico necessário para compreender problemas e construir soluções utilizando algoritmos.
