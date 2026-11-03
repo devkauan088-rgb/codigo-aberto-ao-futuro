@@ -9,6 +9,7 @@
 [![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)]()
 [![Extensão](https://img.shields.io/badge/Projeto-Extensão%20UNIP-green)]()
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue)]()
+[![Repositório](https://img.shields.io/badge/github-repo-blue?logo=github)]
 
 </div>
 
