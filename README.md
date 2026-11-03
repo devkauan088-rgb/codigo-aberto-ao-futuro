@@ -243,6 +243,7 @@ As trilhas abaixo representam a estrutura inicial do projeto. Nem todas possuem 
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/).
 - [Pro Git](https://git-scm.com/book/pt-br/v2).
+- [Aprenda Git Branching] (https://learngitbranching.js.org/).
 
 ## 7. Estudos avançados e especialização
 
