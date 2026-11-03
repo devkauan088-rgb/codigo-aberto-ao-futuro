@@ -50,7 +50,8 @@ Desenvolver o raciocínio lógico e aprender a transformar problemas em sequênc
 
 | Recurso | Descrição | Acesso |
 |---|---|---|
-| [Curso de Algoritmo — Curso em Vídeo](https://www.cursoemvideo.com/curso/algoritmo/) | Curso introdutório em português sobre lógica e construção de algoritmos. | Conteúdo gratuito conforme a oferta da plataforma. |
+| [Curso de Algoritmo — Curso em Vídeo](https://www.cursoemvideo.com/curso/algoritmo/) | Curso introdutório em português sobre lógica e construção de algoritmos. | 
+Conteúdo disponível gratuitamente; certificado pode ter condições próprias. |
 | [Harvard CS50x](https://cs50.harvard.edu/x/) | Aborda pensamento computacional, algoritmos, pseudocódigo e resolução de problemas. | Conteúdo disponível gratuitamente; certificado pode ter condições próprias. |
 | [Scratch](https://scratch.mit.edu/) | Ambiente visual para experimentar conceitos de programação por meio de blocos. | Gratuito. |
 
