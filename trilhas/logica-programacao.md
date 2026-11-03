@@ -73,4 +73,4 @@ Ao concluir esta etapa, você deverá conseguir interpretar problemas simples, p
 
 ## Próxima etapa
 
-Avance para [Fundamentos de Programação](fundamentos-programacao.md) e transforme seus algoritmos em programas executáveis.
+Avance para [Fundamentos de Programação]() e transforme seus algoritmos em programas executáveis.
